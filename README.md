@@ -1,0 +1,1 @@
+**Note: This repository is currently under different ownership and maintenance by JujitsuGang . If you are interested in deep learning for program analysis (e.g., code summarization, code retrieval, code completion and type inference), please refer to our new project NaturalCC (https://github.com/CGCL-codes/naturalcc).**
